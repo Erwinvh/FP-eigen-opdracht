@@ -16,7 +16,7 @@ TI1.3 IPR van Erwin van Hunnik
     </li>
         <ul>
             <li>
-                <a href="#week2">Week 2</a>  
+                <a href="Week2">[Week 2](myLib/Week2.md)</a>  
             </li>
             <li>
                 <a href="#week3">Week 3</a>  
@@ -40,6 +40,13 @@ TI1.3 IPR van Erwin van Hunnik
                 <a href="#week9">Week 9</a>  
             </li>
         </ul>
+            <h3>
+        <a href="stelling"> Reflectie op een stelling</a>
+    </h3>
+        <h3>
+        <a href="JSON"> Uitwerking JSON opdracht</a>
+    </h3>
+
 </div>
 
 

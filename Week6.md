@@ -2,12 +2,12 @@
 
 ## Context:
 
-
+___
 ## De mogelijkheden:
 
-
+___
 ## Resultaat:
 
-
+___
 ## De Redenering:
 

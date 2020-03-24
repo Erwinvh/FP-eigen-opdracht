@@ -2,7 +2,7 @@
 
 ---
 
-## Situatie 1:
+## Situatie 1: Verdeling van werk
 
 ### Context:
 
@@ -31,7 +31,7 @@ De NPC's lijken niet veel mankracht nodig te hebben en het is zonde van de tijd 
 
 ----
 ---
-## Situatie 2:
+## Situatie 2: Map
 
 ### Context:
 De map waarop de NPC's op moeten lopen voor de simulator heeft alleen een design en geen eerste poging door de rest van het team dat we daar op hadden gezet. De map had na de vakantie af moeten zijn en hebben daar na de vakantie nog eens over gesproken. Toen 4 mensen niks hebben laten weten heb ik op vrijdag maar naar de stand van zaken gevraagd samen met Lars. hieruit bleek dat er nogsteeds geen voortgang was door "workflow issues". Na een lange discussie hebben we maar besloten met zn allen om de issues te bespreken op Maandag. echter waren er geen afspraken gemaakt over wat er nu zou gebeuren met de map.

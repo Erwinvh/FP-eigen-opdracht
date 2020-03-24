@@ -1,7 +1,7 @@
 # Reflectie van week 3
 
 
-## Situatie 1:
+## Situatie 1: Foutieve invoer
 
 ### Context:
 De gebruiker kan foute informatie invullen op het moment en daar wordt niks mee gedaan. de gebruiker zal dan de fouten alleen zien en geen controle op er krijgt. zodra de data werkt zal deze het controleren maar zal geen foutmelding geven aan de gebruiker. 
@@ -32,7 +32,7 @@ Mogelijkheid 2 is niet gebruikersvriendelijk en ronduit onhandig tijdens testen.
 ---
 ---
 
-## Situatie 2:
+## Situatie 2: Image laden
 ### Context:
 We hadden een optie bij een artist toevoegen die de gebruiker toe zou laten om een foto aan de artist te koppelen. Deze functie heeft me aanzienlijk wat tijd gekost om te proberen werkend te krijgen in de afgelopen weken. Op het moment staat de functie dat de applicatie een foto eenmalig kan inladen en laten zien aan de gebruiker, echter als het nogmaals geprobeerd wordt breakt de applicatie en de data laadt het niet toe om de image op te slaan. het gaat veel tijd kosten om het misschien werkend te krijgen dus de vraag is of het het waard is om daar mijn focus op te leggen. Er moeten namelijk meer aanpassingen gemaakt worden binnenkort.
 

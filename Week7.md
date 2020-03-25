@@ -16,8 +16,7 @@ ___
 ### Resultaat:
 Na tijd te hebben gemaakt heb ik een copy van de applicatie project gemaakt en heb een copy van de simulator er in geplaatst om te testen en alles te verbinden. Het is gelukt na wat werk om te doen en het resultaat ziet er als volgt uit:
 
-image
-
+![alt text](simApp.png "Simulator in application")
 ___
 ### De Redenering:
 Ik wil zo veel mogelijk doen om het project snelheid te geven dus heb besloten om de merge zelf te doen en heb een tijdje er aan gewerkt.
